@@ -1,0 +1,6 @@
+	Video de socialización y funcionamiento del prototipo
+	Se realizó un video demostrativo del funcionamiento del prototipo SIA-Nariño, donde se evidencia el flujo de navegación del sistema, el proceso de autenticación multifactor y las funcionalidades principales del prototipo funcional desarrollado en Figma.
+	
+	El video fue elaborado conforme a los lineamientos establecidos en la guía de actividades, con una duración menor a 10 minutos.
+	Enlace del video:
+	https://youtu.be/WL4O6s4YQX4
